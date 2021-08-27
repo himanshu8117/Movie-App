@@ -7,5 +7,5 @@ import Controller from './screens/Controller';
 import Header from './common/header/Header';
 
 
-ReactDOM.render(<Header />, document.getElementById('root'));
+ReactDOM.render(<Controller />, document.getElementById('root'));
 registerServiceWorker();
